@@ -1,0 +1,82 @@
+<!--index.wxml-->
+
+
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  
+  </block>
+</swiper>
+ <view class='text' style='text-align:center'>
+ <text>-----电影推荐-----</text>
+ </view>
+
+<view class='content'>
+ <view class='pro'>
+<image src='/images/刘三姐.jpg'></image>
+<view class='proName'>刘三姐</view>
+<view class='actor'>主演：黄婉秋</view>
+ </view>
+ <view class='pro'>
+<image src='/images/咒怨.jpg'></image>
+<view class='proName'>咒怨</view>
+<view class='actor'>日本惊悚恐怖片</view>
+ </view>
+ <view class='pro'>
+<image src='/images/囧途.jpg'></image>
+<view class='proName'>囧途</view>
+<view class='actor'>主演：徐峥</view>
+ </view>
+ <view class='pro'>
+<image src='/images/国际市场.jpg'></image>
+<view class='proName'>国际市场</view>
+<view class='actor'>港式电影</view>
+ </view>
+ <view class='pro'>
+<image src='/images/沉睡魔咒.jpg'></image>
+<view class='proName'>沉睡魔咒</view>
+<view class='actor'>沉睡魔咒：唤醒公主</view>
+ </view>
+ <view class='pro'>
+<image src='/images/流浪地球.jpg'></image>
+<view class='proName'>流浪地球</view>
+<view class='actor'>主演：吴京</view>
+ </view>
+ <view class='pro'>
+<image src='/images/秦时明月.jpg'></image>
+<view class='proName'>秦时明月</view>
+<view class='actor'>过情关、谁敢忘</view>
+ </view>
+ <view class='pro'>
+<image src='/images/风暴.jpg'></image>
+<view class='proName'>风暴</view>
+<view class='actor'>港式大风暴</view>
+ </view>
+ <view class='pro'>
+<image src='/images/战狼.jpg'></image>
+<view class='proName'>战狼</view>
+<view class='actor'>主演：吴京</view>
+ </view>
+<view class='pro'>
+<image src='/images/每对3.jpg'></image>
+<view class='proName'>美队3</view>
+<view class='actor'>看美国队长第三部</view>
+ </view>
+ <view class='pro'>
+<image src='/images/捉妖记.jpg'></image>
+<view class='proName'>捉妖记</view>
+<view class='actor'>主演：白百合</view>
+ </view>
+ <view class='pro'>
+<image src='/images/大鱼海棠.jpg'></image>
+<view class='proName'>大鱼海棠</view>
+<view class='actor'>中国动漫又一佳作</view>
+ </view>
+</view>
+<navigator url='/pages/film/film'>
+ <button class="primary">点击查看更多内容</button>
+
+</navigator>

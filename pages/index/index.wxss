@@ -1,0 +1,42 @@
+/**index.wxss**/
+
+ swiper,swiper image{
+  width: 100%;
+  height:190px;
+}
+
+
+/*设置参数*/
+.text{
+  font-size: 20px;
+}
+.actor{
+  color: rgb(70, 67, 63);
+  font-size: 10px;
+}
+
+.pro{
+  width: 30%;
+}
+
+.pro image{
+  width:100%;
+  height:200rpx;
+}
+
+.proName{
+  color: rgb(150, 71, 71);
+  align-content: center;
+}
+.content{
+   width:100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around; /*框与框之间留有空隙*/
+}
+
+.primary{
+  color:dimgrey;
+  font-family: Pudding font;
+  font-size: 15px;
+}

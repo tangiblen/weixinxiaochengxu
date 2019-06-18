@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/car/car",
+    "pages/film/film",
+    "pages/user/user"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#bbb",
+    "navigationBarTitleText": "一起度过欢乐视光",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/开心果.png",
+        "selectedIconPath": "/images/开心果.png"
+      },
+      {
+        "pagePath": "pages/film/film",
+        "text": "电影",
+        "iconPath": "/images/马卡龙.png",
+        "selectedIconPath": "/images/马卡龙.png"
+      },
+      {
+        "pagePath": "pages/car/car",
+        "text": "投影房",
+        "iconPath": "/images/热狗.png",
+        "selectedIconPath": "/images/热狗.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "/images/甜甜圈.png",
+        "selectedIconPath": "/images/甜甜圈.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap77.json"
+}
