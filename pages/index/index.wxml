@@ -16,67 +16,93 @@
 
 <view class='content'>
  <view class='pro'>
-<image src='/images/刘三姐.jpg'></image>
-<view class='proName'>刘三姐</view>
+<image src='/images/liusanjie.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">刘三姐</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+ <!--<view class='proName'>刘三姐</view>-->
 <view class='actor'>主演：黄婉秋</view>
  </view>
  <view class='pro'>
-<image src='/images/咒怨.jpg'></image>
-<view class='proName'>咒怨</view>
+<image src='/images/zhouyuan.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">咒怨</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>咒怨</view>-->
 <view class='actor'>日本惊悚恐怖片</view>
  </view>
  <view class='pro'>
-<image src='/images/囧途.jpg'></image>
-<view class='proName'>囧途</view>
+<image src='/images/jiongtu.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">囧途</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>囧途</view>-->
 <view class='actor'>主演：徐峥</view>
  </view>
  <view class='pro'>
-<image src='/images/国际市场.jpg'></image>
-<view class='proName'>国际市场</view>
+<image src='/images/guojishichang.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">国际市场</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>国际市场</view>-->
 <view class='actor'>港式电影</view>
  </view>
  <view class='pro'>
-<image src='/images/沉睡魔咒.jpg'></image>
-<view class='proName'>沉睡魔咒</view>
+<image src='/images/chenshuimozhou.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">沉睡魔咒</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>沉睡魔咒</view>-->
 <view class='actor'>沉睡魔咒：唤醒公主</view>
  </view>
  <view class='pro'>
-<image src='/images/流浪地球.jpg'></image>
-<view class='proName'>流浪地球</view>
+<image src='/images/liulangdiqiu.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">流浪地球</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>流浪地球</view>-->
 <view class='actor'>主演：吴京</view>
  </view>
  <view class='pro'>
-<image src='/images/秦时明月.jpg'></image>
-<view class='proName'>秦时明月</view>
+<image src='/images/qinshimingyue.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">秦时明月</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>秦时明月</view>-->
 <view class='actor'>过情关、谁敢忘</view>
  </view>
  <view class='pro'>
-<image src='/images/风暴.jpg'></image>
-<view class='proName'>风暴</view>
+<image src='/images/fengbao.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">风暴</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>风暴</view>-->
 <view class='actor'>港式大风暴</view>
  </view>
  <view class='pro'>
-<image src='/images/战狼.jpg'></image>
-<view class='proName'>战狼</view>
+<image src='/images/zhanlang.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">战狼</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>战狼</view>-->
 <view class='actor'>主演：吴京</view>
  </view>
 <view class='pro'>
-<image src='/images/每对3.jpg'></image>
-<view class='proName'>美队3</view>
+<image src='/images/meidui3.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">美队3</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>美队3</view>-->
 <view class='actor'>看美国队长第三部</view>
  </view>
  <view class='pro'>
-<image src='/images/捉妖记.jpg'></image>
-<view class='proName'>捉妖记</view>
+<image src='/images/zhuoyaoji.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">捉妖记</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>捉妖记</view>-->
 <view class='actor'>主演：白百合</view>
  </view>
  <view class='pro'>
-<image src='/images/大鱼海棠.jpg'></image>
-<view class='proName'>大鱼海棠</view>
+<image src='/images/dayuhaitang.jpg'></image>
+<navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">大鱼海棠</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+<!--<view class='proName'>大鱼海棠</view>-->
 <view class='actor'>中国动漫又一佳作</view>
  </view>
 </view>
-<navigator url='/pages/film/film'>
- <button class="primary">点击查看更多内容</button>
 
-</navigator>
+<view class="btn-area">
+  <navigator url="/navigate/navigate?title=navigate" hover-class="navigator-hover">-----------------------点击查看更多内容---------------</navigator>
+  <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+
+</view>

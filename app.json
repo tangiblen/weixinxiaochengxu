@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/car/car",
     "pages/film/film",
-    "pages/user/user"
+    "pages/user/user",
+    "navigate/navigate"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -16,26 +17,26 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "/images/开心果.png",
-        "selectedIconPath": "/images/开心果.png"
+        "iconPath": "/images/kaixinguo.png",
+        "selectedIconPath": "/images/kaixinguo.png"
       },
       {
         "pagePath": "pages/film/film",
         "text": "电影",
-        "iconPath": "/images/马卡龙.png",
-        "selectedIconPath": "/images/马卡龙.png"
+        "iconPath": "/images/makalong.png",
+        "selectedIconPath": "/images/makalong.png"
       },
       {
         "pagePath": "pages/car/car",
         "text": "投影房",
-        "iconPath": "/images/热狗.png",
-        "selectedIconPath": "/images/热狗.png"
+        "iconPath": "/images/regou.png",
+        "selectedIconPath": "/images/regou.png"
       },
       {
         "pagePath": "pages/user/user",
         "text": "我的",
-        "iconPath": "/images/甜甜圈.png",
-        "selectedIconPath": "/images/甜甜圈.png"
+        "iconPath": "/images/tiantianquan.png",
+        "selectedIconPath": "/images/tiantianquan.png"
       }
     ]
   },

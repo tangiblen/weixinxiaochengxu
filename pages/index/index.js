@@ -5,9 +5,9 @@ const app = getApp()
 Page({
   data: {
     imgUrls: [
-      '/images/流浪地球.jpg',
-      '/images/囧途.jpg',
-      '/images/风暴.jpg'
+      '/images/liulangdiqiu.jpg',
+      '/images/jiongtu.jpg',
+      '/images/fengbao.jpg'
     ],
     indicatorDots: true,
     autoplay: true,
@@ -21,4 +21,12 @@ Page({
   url: "/pages/film/film"
     })
   } 
+})
+
+Page({
+  onLoad: function (options) {
+    this.setData({
+      title: options.title
+    })
+  }
 })
